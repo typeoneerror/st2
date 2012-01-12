@@ -1,0 +1,13 @@
+[
+    // textmate duplicate line
+    { "keys": ["ctrl+shift+d"],   "command": "duplicate_line" },
+    // textmate close all files
+    { "keys": ["ctrl+super+w"],   "command": "close_all" },
+    // textmate wordwrap
+    { "keys": ["super+alt+w"],    "command": "toggle_setting", "args": {"setting": "word_wrap"} },
+    // xcode quick open
+    { "keys": ["super+shift+o"],  "command": "show_overlay",   "args": {"overlay": "goto", "show_files": true} },
+    // textmate case toggle
+    { "keys": ["super+u"],        "command": "upper_case" },
+    { "keys": ["super+shift+u"],  "command": "lower_case" }
+]

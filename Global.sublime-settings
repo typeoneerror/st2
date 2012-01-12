@@ -1,0 +1,14 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+    // Controls side bar animation when expanding or collapsing folders
+    "tree_animation_enabled": true,
+
+    // remember_open_files makes the application start up with the last set of
+    // open files. Changing this to false will have no effect if hot_exit is
+    // true
+    "remember_open_files": false,
+
+    // Places a highlight on tabs with unsaved changes
+    "highlight_modified_tabs": true
+}
