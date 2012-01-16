@@ -1,0 +1,5 @@
+{
+    "cmd": ["/Applications/CoronaSDK/simulator", "${project_path:${folder}/main.lua}"],
+    "working_dir": "${project_path:${folder}}",
+    "selector" : "source.lua"
+}

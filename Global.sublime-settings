@@ -10,5 +10,9 @@
     "remember_open_files": false,
 
     // Places a highlight on tabs with unsaved changes
-    "highlight_modified_tabs": true
+    "highlight_modified_tabs": true,
+
+    "theme": "Default.sublime-theme"
+    // "theme": "Soda Dark.sublime-theme"
+    // "theme": "Soda Light.sublime-theme"
 }

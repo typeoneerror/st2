@@ -11,10 +11,11 @@
     { "keys": ["super+u"],        "command": "upper_case" },
     { "keys": ["super+shift+u"],  "command": "lower_case" },
     // insert "super function" snippet
-    { "keys": ["shift+enter"], "command": "insert_snippet", "args": {"name": "Packages/User/PHPFunction.sublime-snippet"},
+    { "keys": ["shift+enter"], "command": "insert_snippet", "args": {"name": "${packages}/User/PHPFunction.sublime-snippet"},
         "context" : [
             { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": false },
             { "key": "selector", "operator": "equal", "operand": "source.php", "match_all": true }
         ]
-    }
+    },
+    { "keys": ["super+shift+,"], "command": "open_dir", "args": {"dir": "${packages}/User"} }
 ]
