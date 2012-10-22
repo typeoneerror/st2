@@ -17,5 +17,6 @@
             { "key": "selector", "operator": "equal", "operand": "source.php", "match_all": true }
         ]
     },
-    { "keys": ["super+shift+,"], "command": "open_dir", "args": {"dir": "${packages}/User"} }
+    { "keys": ["super+shift+,"], "command": "open_dir", "args": {"dir": "${packages}/User"} },
+    { "keys": ["super+k"], "command": "toggle_side_bar" }
 ]

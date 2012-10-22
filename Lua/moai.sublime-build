@@ -1,0 +1,6 @@
+{
+    "cmd": ["moai", "${project_path:${folder}/test.lua}"],
+    "working_dir": "${project_path:${folder}}",
+    "selector" : "source.lua"
+}
+
