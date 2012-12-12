@@ -52,11 +52,12 @@
 		".bundle"
 	],
 	"font_face": "Menlo",
-	"font_size": 17.0,
+	"font_size": 18.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"remember_open_files": false,
+	"scroll_past_end": true,
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
