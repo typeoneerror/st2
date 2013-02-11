@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Haml",
+		"Markdown Preview",
+		"Origami",
+		"Package Control",
+		"Sass"
+	]
+}

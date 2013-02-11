@@ -18,5 +18,5 @@
         ]
     },
     { "keys": ["super+shift+,"], "command": "open_dir", "args": {"dir": "${packages}/User"} },
-    { "keys": ["super+k"], "command": "toggle_side_bar" }
+    { "keys": ["super+shift+k"], "command": "toggle_side_bar" }
 ]

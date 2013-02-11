@@ -56,6 +56,10 @@
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"remember_open_files": false,
 	"scroll_past_end": true,
 	"theme": "Default.sublime-theme",

@@ -1,6 +1,8 @@
 {
-    "tab_size": 2,
-	"extensions":
-	[
-	]
+  "extensions":
+  [
+    "haml",
+    "html.haml"
+  ],
+  "tab_size": 2
 }
