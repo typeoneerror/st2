@@ -1,0 +1,4 @@
+{
+  "cmd": ["middleman", "build", "--clean", "--verbose"],
+  "working_dir": "${project_path:${folder}}"
+}

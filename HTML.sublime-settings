@@ -2,7 +2,9 @@
 	"extensions":
 	[
 		"mine",
-		"working"
+		"working",
+		"soy",
+		"vm"
 	],
 	"tab_size": 4
 }

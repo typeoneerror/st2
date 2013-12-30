@@ -3,5 +3,6 @@
 	[
 		"sass",
     "css.sass"
-	]
+	],
+  "tab_size": 2
 }
