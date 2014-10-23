@@ -4,10 +4,16 @@
 	[
 		"CoffeeScript",
 		"Haml",
+		"Handlebars",
+		"JSHint",
 		"Markdown Preview",
 		"Origami",
 		"Package Control",
 		"Pretty JSON",
-		"Sass"
+		"RSpec",
+		"RuboCop",
+		"Ruby Slim",
+		"Sass",
+		"Theme - Spacegray"
 	]
 }

@@ -1,7 +1,11 @@
 {
 	"extensions":
 	[
-		"ru"
+		"ru",
+		"cap",
+		"Gemfile",
+		"Guardfile",
+		".irbrc"
 	],
-	"tab_indent": 2
+	"tab_size": 2
 }

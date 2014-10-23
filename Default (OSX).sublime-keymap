@@ -18,5 +18,8 @@
         ]
     },
     { "keys": ["super+shift+,"], "command": "open_dir", "args": {"dir": "${packages}/User"} },
-    { "keys": ["super+shift+k"], "command": "toggle_side_bar" }
+    { "keys": ["super+shift+k"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+shift+c+o"],  "command": "rubocop_check_single_file" },
+    { "keys": ["super+shift+c+o"], "command": "rubocop_check_project" },
+    { "keys": ["ctrl+shift+v+o"],  "command": "rubocop_check_file_folder" }
 ]

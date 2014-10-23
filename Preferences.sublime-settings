@@ -16,9 +16,11 @@
 		"*.zip",
 		"*.sassc"
 	],
-	"color_scheme": "Packages/User/Themes/Plum Dumb.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/IDLE.tmTheme",
 	"default_line_ending": "unix",
+	"detect_indentation": false,
 	"draw_white_space": "selection",
+  "ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -40,7 +42,11 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"zend_cache---*"
+		"zend_cache---*",
+		"Gemfile.lock",
+		"*.sublime-workspace",
+		"*.woff",
+		"*.sql"
 	],
 	"folder_exclude_patterns":
 	[
@@ -50,10 +56,11 @@
 		"CVS",
 		".sass-cache",
 		"templates_c",
-		".bundle"
+		".bundle",
+		"node_modules"
 	],
-	"font_face": "Menlo",
-	"font_size": 18.0,
+	"font_face": "Monaco",
+	"font_size": 17.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -62,8 +69,10 @@
 		"Vintage"
 	],
 	"remember_open_files": false,
+  "rulers": [100],
 	"scroll_past_end": true,
-	"theme": "Default.sublime-theme",
+	"spell_check": false,
+	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_trailing_white_space_on_save": true,

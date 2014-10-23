@@ -1,0 +1,10 @@
+{
+	"detect_indentation": false,
+	"extensions":
+	[
+		"slim",
+		"emblem"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}

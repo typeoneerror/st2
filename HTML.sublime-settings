@@ -4,7 +4,8 @@
 		"mine",
 		"working",
 		"soy",
-		"vm"
+		"vm",
+		"html"
 	],
-	"tab_size": 4
+	"tab_size": 2
 }
