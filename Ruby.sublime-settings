@@ -5,7 +5,9 @@
 		"cap",
 		"Gemfile",
 		"Guardfile",
-		".irbrc"
+		".irbrc",
+		"rb",
+		".irbc"
 	],
 	"tab_size": 2
 }

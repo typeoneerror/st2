@@ -17,9 +17,10 @@
 		"*.sassc"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
+	"draw_centered": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -59,13 +60,15 @@
 		"templates_c",
 		".bundle",
 		"build",
-		"dist",
 		"tmp",
 		"log",
-		"bin"
+		".idea",
+		"coverage",
+		"node_modules",
+		"bower_components"
 	],
-	"font_face": "Menlo",
-	"font_size": 14.0,
+	"font_face": "Operator Mono",
+	"font_size": 16.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -76,21 +79,17 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"remember_open_files": false,
-	"rulers":
-	[
-		100
-	],
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"spacegray_tabs_auto_width": true,
-	"spacegray_tabs_font_normal": true,
+	"spacegray_tabs_font_large": false,
 	"spell_check": false,
 	"tab_size": 2,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Spacegray Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": false,
+	"use_simple_full_screen": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": true
 }

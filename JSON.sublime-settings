@@ -2,7 +2,13 @@
 	"extensions":
 	[
 		".bowerrc",
-		".ember-cli"
+		".ember-cli",
+		"json",
+		".jscsrc",
+		".sublime-menu",
+		".sublime-settings",
+		"sublime_commands",
+		"sublime-commands"
 	],
 	"tab_size": 2
 }

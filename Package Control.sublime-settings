@@ -1,12 +1,21 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"Babel",
 		"CoffeeScript",
+		"Elm Language Support",
 		"Haml",
 		"Handlebars",
+		"Hopscotch Color Scheme",
+		"JavaScriptNext - ES6 Syntax",
 		"JSHint",
 		"Markdown Preview",
+		"Oceanic Next Color Scheme",
 		"Origami",
 		"Package Control",
 		"Pretty JSON",
@@ -14,6 +23,9 @@
 		"RuboCop",
 		"Ruby Slim",
 		"Sass",
-		"Theme - Spacegray"
+		"SublimeREPL",
+		"Theme - Spacegray",
+		"TodoReview",
+		"Zeus"
 	]
 }

@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-	],
-	"tab_size": 2
+		"js",
+    "es6"
+	]
 }

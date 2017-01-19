@@ -21,5 +21,6 @@
     { "keys": ["super+shift+k"], "command": "toggle_side_bar" },
     { "keys": ["ctrl+shift+c+o"],  "command": "rubocop_check_single_file" },
     { "keys": ["super+shift+c+o"], "command": "rubocop_check_project" },
-    { "keys": ["ctrl+shift+v+o"],  "command": "rubocop_check_file_folder" }
+    { "keys": ["ctrl+shift+v+o"],  "command": "rubocop_check_file_folder" },
+    { "keys": ["super+g"], "command": "encode_html_entities" }
 ]
